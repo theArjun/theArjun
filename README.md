@@ -23,8 +23,6 @@ I'm a Backend Engineer specializing in Python and Rust, passionate about buildin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-Feel free to explore these repositories and contribute!
-
 ## 📫 Get in Touch
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Reach out to me through [LinkedIn](https://www.linkedin.com/in/thearjun) or [X/Twitter](https://twitter.com/iArjunAdhikari).

@@ -22,16 +22,6 @@ I'm a Backend Engineer specializing in Python and Rust, passionate about buildin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 GitHub Stats
-
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theArjun&show_icons=true&theme=radical)
-
-## 🔥 Top Repositories
-
-Here are some of my notable projects:
-
-- [**awesome-django-blogs**](https://github.com/theArjun/awesome-django-blogs): A curated list of blogs about Django and related technologies. ![Stars](https://img.shields.io/github/stars/theArjun/awesome-django-blogs?style=social) ![Forks](https://img.shields.io/github/forks/theArjun/awesome-django-blogs?style=social)
-- [**java-notes**](https://github.com/theArjun/java-notes): Complete Java notes for colleges in Nepal. ![Stars](https://img.shields.io/github/stars/theArjun/java-notes?style=social) ![Forks](https://img.shields.io/github/forks/theArjun/java-notes?style=social)
 
 Feel free to explore these repositories and contribute!
 

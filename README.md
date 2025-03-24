@@ -7,7 +7,6 @@ I'm a Backend Engineer specializing in Python and Rust, passionate about buildin
 - 🌍 I'm based in Pokhara, Nepal
 - 🏢 Currently working at [wesionaryTEAM](https://wesionary.team/)
 - 🌐 Personal website: [adhikariarjun.com.np](https://adhikariarjun.com.np)
-- 📝 I write articles on [pythonislove.com](https://pythonislove.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/thearjun)
 - 🐦 Follow me on [X/Twitter](https://twitter.com/iArjunAdhikari)
 

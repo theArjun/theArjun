@@ -22,10 +22,6 @@
 ```python
 class ArjunAdhikari:
     def __init__(self):
-        self.name = "Arjun Adhikari"
-        self.role = "Backend Engineer"
-        self.location = "Pokhara, Nepal 🏔️"
-        self.company = "wesionaryTEAM"
         self.languages = ["Python", "Rust", "TypeScript"]
         self.focus = ["Scalable Applications", "API Development", "Performance Optimization"]
         self.currently_learning = ["System Design", "Generative AI"]

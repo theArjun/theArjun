@@ -39,26 +39,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=theArjun&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Arjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theArjun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -93,19 +73,6 @@ mindmap
 - 🤝 Open to collaborating on interesting projects
 
 ---
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always excited to connect with fellow developers and discuss new ideas, projects, or opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thearjun)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me!-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iArjunAdhikari)
-[![Website](https://img.shields.io/badge/Website-Visit_Me!-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://adhikariarjun.com.np)
-[![Email](https://img.shields.io/badge/Email-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
 
 <div align="center">
   

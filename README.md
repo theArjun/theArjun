@@ -35,31 +35,6 @@ me.say_hi()
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Arjun's Focus))
-    Backend Development
-      API Design
-      Performance Optimization
-      Database Architecture
-    Learning
-      System Design
-      Cloud Patterns
-      Microservices
-    Open Source
-      Contributing
-      Building Tools
-      Community Support
-```
-
-</div>
-
----
-
 ## 🌟 Fun Facts
 
 - 🏔️ Living in the beautiful city of Pokhara, surrounded by the Himalayas

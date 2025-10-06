@@ -35,18 +35,8 @@ me.say_hi()
 
 ---
 
-## 🌟 Fun Facts
-
 - 🏔️ Living in the beautiful city of Pokhara, surrounded by the Himalayas
 - 🚀 Love optimizing code performance and building scalable systems
 - 🌱 Always learning new technologies and best practices
 - 💡 Enjoy solving complex problems with elegant solutions
 - 🤝 Open to collaborating on interesting projects
-
----
-
-<div align="center">
-  
-**✨ Thanks for visiting my profile! Have a great day! ✨**
-
-</div>
